@@ -293,7 +293,7 @@ var isDealer = true;
             } catch (e) {}
             return v || null;
         };
-        var preload_images = [ "bg", "legal_dealer", "list" ];
+        var preload_images = [ ];
         makeClickHandler = function() {};
         preloadImages(preload_images, function() {
             var T = new TimelineMax();
