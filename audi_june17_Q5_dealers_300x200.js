@@ -1283,7 +1283,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,604,600);
 	this.timeline.addTween(cjs.Tween.get(this).wait(8).call(this.frame_8).wait(7));
 
 	// Layer 1
-	this.instance = new lib.Symbol20();
+	this.instance = new lib.Symbol50();
 	this.instance.parent = this;
 	this.instance.setTransform(25,25,1,1,1,0,0,25,25);
 
@@ -2047,4 +2047,4 @@ lib.properties = {
 
 
 })(lib = lib||{}, images = images||{}, createjs = createjs||{}, ss = ss||{}, AdobeAn = AdobeAn||{});
-var lib, images, createjs, ss, AdobeAn;
+
