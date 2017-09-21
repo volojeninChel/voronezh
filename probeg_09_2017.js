@@ -23,11 +23,11 @@ d.blob=1,l._firstPT=d),i=f.length,h=0;i>h;h++)k=f[h],j=b.substr(m,b.indexOf(k,m)
     }[C.H];
     C.V = S.name;
     C.ID = "AudiUsedSept16_728x90dealer" + (C.V ? "~" + C.V : "");
-    C.width = "300px";
+    C.width = "960px";
     C.height = "250px";
-    C.minWidth = "300px";
+    C.minWidth = "960px";
     C.minHeight = "250px";
-    C.maxWidth = "300px";
+    C.maxWidth = "100%";
     C.maxHeight = "250px";
     C.base_path = "./";
     C.l = S.l ? S.l : VD.l ? VD.l : {
